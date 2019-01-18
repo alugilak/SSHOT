@@ -1,0 +1,16 @@
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.csprojAssemblyReference.cache
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.Form1.resources
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.Properties.Resources.resources
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.csproj.GenerateResource.cache
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.csproj.CoreCompileInputs.cache
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.Canvas.resources
+C:\Users\silentwolf\source\repos\SShot\SShot\bin\Debug\SShot.exe.config
+C:\Users\silentwolf\source\repos\SShot\SShot\bin\Debug\SShot.exe
+C:\Users\silentwolf\source\repos\SShot\SShot\bin\Debug\SShot.pdb
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.exe
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.pdb
+C:\Users\silentwolf\source\repos\SShot\SShot\bin\Debug\SShot.exe.manifest
+C:\Users\silentwolf\source\repos\SShot\SShot\bin\Debug\SShot.application
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.TrustInfo.xml
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.exe.manifest
+C:\Users\silentwolf\source\repos\SShot\SShot\obj\Debug\SShot.application
